@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.SARL one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.sarl        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.sarl        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.sarl      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.sarl  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.sarl      | available | 43       | 2%     | 5      |           |         |         |
