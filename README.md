@@ -1,22 +1,22 @@
-# Available .SARL One-Word Domains (5,621,990)
+# Available .SARL One-Word Domains (9,873)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C873%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C990%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C873%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .sarl one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .sarl one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,873-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,990 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,873 rows · **Live catalog:** 5,621,990 domains
+**Public extract:** 9,873 rows · **Live catalog:** 9,873 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/sarl`  
 **Best for:** founders, investors, studios
 
@@ -65,15 +65,15 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | easy.sarl      | available | $8.98     | —             | 128            | 68     | 4      | namecheap        |
-| open.sarl      | resell    | —         | —             | 106            | 61     | 4      | NameCheap, Inc.  |
-| data.sarl      | premium   | $42.90    | $42.90        | 70             | 60     | 4      | namecheap        |
-| good.sarl      | available | $8.98     | —             | 82             | 55     | 4      | namecheap        |
-| poker.sarl     | resell    | —         | —             | 100            | 45     | 5      | GoDaddy.com, LLC |
+| open.sarl      | resell    | —         | —             | 106            | 60     | 4      | NameCheap, Inc.  |
 | ace.sarl       | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com         |
-| zero.sarl      | available | $8.98     | —             | 112            | 53     | 4      | namecheap        |
+| good.sarl      | available | $8.98     | —             | 82             | 55     | 4      | namecheap        |
+| poker.sarl     | resell    | —         | —             | 100            | 44     | 5      | GoDaddy.com, LLC |
+| live.sarl      | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com         |
+| alpha.sarl     | available | $8.98     | —             | 90             | 54     | 5      | namecheap        |
 | insurance.sarl | resell    | —         | —             | 76             | 44     | 9      | GoDaddy.com, LLC |
-| live.sarl      | premium   | $82.50    | $82.50        | 108            | 55     | 4      | name.com         |
-| alpha.sarl     | available | $8.98     | —             | 90             | 53     | 5      | namecheap        |
+| data.sarl      | premium   | $42.90    | $42.90        | 70             | 56     | 4      | namecheap        |
+| zero.sarl      | available | $8.98     | —             | 112            | 53     | 4      | namecheap        |
 | business.sarl  | resell    | —         | —             | 100            | 42     | 8      | NameSilo, LLC    |
 | game.sarl      | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com         |
 | fast.sarl      | available | $8.98     | —             | 82             | 53     | 4      | namecheap        |
@@ -83,7 +83,7 @@ print(df.head())
 | creation.sarl  | resell    | —         | —             | 82             | 22     | 8      | Dynadot Inc      |
 | air.sarl       | premium   | $520      | $520          | 84             | 49     | 3      | namecheap        |
 | digital.sarl   | available | $8.98     | —             | 100            | 50     | 7      | namecheap        |
-| gold.sarl      | premium   | $85.80    | $85.80        | 72             | 49     | 4      | namecheap        |
+| travel.sarl    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,873-row public sample | 5,621,990 live domains                           |
+| 9,873-row public sample | 9,873 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
