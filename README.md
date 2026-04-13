@@ -76,13 +76,13 @@ print(df.head())
 | alpha.sarl     | available | $8.98     | —             | 90             | 53     | 5      | namecheap        |
 | business.sarl  | resell    | —         | —             | 100            | 42     | 8      | NameSilo, LLC    |
 | game.sarl      | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com         |
-| fast.sarl      | available | $8.98     | —             | 82             | 53     | 4      | namecheap        |
-| speed.sarl     | resell    | —         | —             | 72             | 36     | 5      | NameCheap, Inc.  |
-| design.sarl    | premium   | $82.50    | $82.50        | 108            | 50     | 6      | name.com         |
 | true.sarl      | available | $8.98     | —             | 86             | 52     | 4      | namecheap        |
+| speed.sarl     | resell    | —         | —             | 72             | 36     | 5      | NameCheap, Inc.  |
+| design.sarl    | premium   | $82.50    | $82.50        | 108            | 49     | 6      | name.com         |
+| fast.sarl      | available | $8.98     | —             | 82             | 52     | 4      | namecheap        |
 | creation.sarl  | resell    | —         | —             | 82             | 22     | 8      | Dynadot Inc      |
 | air.sarl       | premium   | $520      | $520          | 84             | 49     | 3      | namecheap        |
-| digital.sarl   | available | $8.98     | —             | 100            | 50     | 7      | namecheap        |
+| simple.sarl    | available | $8.98     | —             | 128            | 49     | 6      | namecheap        |
 | travel.sarl    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
