@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .sarl one-word domains from Unique
 
 **Public extract:** 9,873 rows · **Live catalog:** 9,873 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/sarl`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | good.sarl      | available | $8.98     | —             | 82             | 55     | 4      | namecheap        |
 | poker.sarl     | resell    | —         | —             | 100            | 44     | 5      | GoDaddy.com, LLC |
 | live.sarl      | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com         |
-| alpha.sarl     | available | $8.98     | —             | 90             | 54     | 5      | namecheap        |
+| zero.sarl      | available | $8.98     | —             | 112            | 53     | 4      | namecheap        |
 | insurance.sarl | resell    | —         | —             | 76             | 44     | 9      | GoDaddy.com, LLC |
 | data.sarl      | premium   | $42.90    | $42.90        | 70             | 56     | 4      | namecheap        |
-| zero.sarl      | available | $8.98     | —             | 112            | 53     | 4      | namecheap        |
+| alpha.sarl     | available | $8.98     | —             | 90             | 53     | 5      | namecheap        |
 | business.sarl  | resell    | —         | —             | 100            | 42     | 8      | NameSilo, LLC    |
 | game.sarl      | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com         |
 | fast.sarl      | available | $8.98     | —             | 82             | 53     | 4      | namecheap        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
