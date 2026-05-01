@@ -1,10 +1,10 @@
-# Available .SARL One-Word Domains (12,410)
+# Available .SARL One-Word Domains (12,853)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C410%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C853%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sarl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,410 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,853 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,410 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,853 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/sarl`  
 **Best for:** founders, investors, studios
 
@@ -66,14 +66,12 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | Books.sarl        | available | $8.98     | —             | 52             | 49     | 5      | namecheap |
 | agents.sarl       | premium   | $82.50    | —             | 56             | 50     | 6      | name.com  |
-| robots.sarl       | available | $6.99     | $6.99         | 62             | 47     | 6      | namesilo  |
-| rewards.sarl      | premium   | $38.94    | $38.94        | 62             | 30     | 7      | namesilo  |
 | Ryan.sarl         | available | $8.98     | —             | 60             | 44     | 4      | namecheap |
-| bills.sarl        | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
+| rewards.sarl      | premium   | $38.94    | $38.94        | 62             | 30     | 7      | namesilo  |
 | jobs.sarl         | available | $8.98     | —             | 79             | 42     | 4      | namecheap |
+| bills.sarl        | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
 | whynot.sarl       | available | $8.98     | —             | 74             | 39     | 7      | namecheap |
 | events.sarl       | available | $8.98     | —             | 68             | 37     | 6      | namecheap |
-| trends.sarl       | available | $8.98     | —             | 60             | 32     | 6      | namecheap |
 | William.sarl      | available | $8.98     | —             | 74             | 31     | 7      | namecheap |
 | maps.sarl         | available | $8.98     | —             | 56             | 31     | 4      | namecheap |
 | inspiration.sarl  | available | $8.98     | —             | 88             | 30     | 11     | namecheap |
@@ -84,6 +82,8 @@ print(df.head())
 | brands.sarl       | available | $8.98     | —             | 62             | 28     | 6      | namecheap |
 | gods.sarl         | available | $8.98     | —             | 72             | 27     | 4      | namecheap |
 | bees.sarl         | available | $8.98     | —             | 54             | 27     | 4      | namecheap |
+| trades.sarl       | available | $6.99     | $6.99         | 71             | 26     | 6      | namesilo  |
+| has.sarl          | available | $8.98     | —             | 60             | 26     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,410 live domains                              |
+| 1,000-row public sample | 12,853 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
