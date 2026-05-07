@@ -71,6 +71,7 @@ print(df.head())
 | jobs.sarl         | available | $8.98     | —             | 79             | 42     | 4      | namecheap |
 | bills.sarl        | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
 | whynot.sarl       | available | $8.98     | —             | 74             | 39     | 7      | namecheap |
+| links.sarl        | premium   | —         | —             | 70             | 38     | 5      | —         |
 | events.sarl       | available | $8.98     | —             | 68             | 37     | 6      | namecheap |
 | William.sarl      | available | $8.98     | —             | 74             | 31     | 7      | namecheap |
 | maps.sarl         | available | $8.98     | —             | 56             | 31     | 4      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | gods.sarl         | available | $8.98     | —             | 72             | 27     | 4      | namecheap |
 | bees.sarl         | available | $8.98     | —             | 54             | 27     | 4      | namecheap |
 | trades.sarl       | available | $6.99     | $6.99         | 71             | 26     | 6      | namesilo  |
-| has.sarl          | available | $8.98     | —             | 60             | 26     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

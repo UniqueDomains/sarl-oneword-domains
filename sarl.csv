@@ -54,6 +54,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04d916b4-9af7-4c7a-baea-d3e75cdbf456,cometogether.sarl,available,8.98,,70,10,13,namecheap,,
 050dee91-e164-48eb-95ec-ed29041c0c0c,backs.sarl,available,8.98,,56,5,5,namecheap,,
 0529ac12-78b3-4016-bbc6-1a787448c544,sneezed.sarl,available,8.98,,47,2,7,namecheap,,
+052c8355-19c9-443d-8dd4-df061462bc84,links.sarl,premium,,,70,38,5,,,
 053b4925-bc1f-4f17-b1c5-55c4a2a5cac0,demonstrations.sarl,available,6.99,6.99,48,4,14,namesilo,,
 05487f89-fdc9-4a01-b4ee-fadfcd0ffe6d,seniorcollege.sarl,available,8.98,,67,1,14,namecheap,,
 055911bf-9a5a-41f5-b323-47aeb265d0ad,mornings.sarl,available,6.99,6.99,64,6,8,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 556d0428-6714-4ab5-810f-72c325ad92f2,letup.sarl,available,8.98,,74,3,6,namecheap,,
 5592bc36-d047-4c76-90c7-4fe060d9df47,commonhall.sarl,available,8.98,,58,1,11,namecheap,,
 55bd533c-be5b-4162-a97f-7ddc228f84fd,topfive.sarl,available,6.99,6.99,52,9,8,namesilo,,
-55ce8bde-14de-4e7f-bc80-14906f987514,changeoftune.sarl,available,8.98,,64,0,14,namecheap,,
