@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sarl one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $9.82 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/sarl`  
 **Best for:** founders, investors, studios
 
@@ -66,11 +66,11 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | Books.sarl        | available | $8.98     | —             | 52             | 49     | 5      | namecheap |
 | agents.sarl       | premium   | $82.50    | —             | 56             | 50     | 6      | name.com  |
-| Ryan.sarl         | available | $8.98     | —             | 60             | 44     | 4      | namecheap |
+| whynot.sarl       | available | $8.98     | —             | 74             | 44     | 7      | namecheap |
 | rewards.sarl      | premium   | $38.94    | $38.94        | 62             | 30     | 7      | namesilo  |
-| jobs.sarl         | available | $8.98     | —             | 79             | 42     | 4      | namecheap |
+| Ryan.sarl         | available | $8.98     | —             | 60             | 44     | 4      | namecheap |
 | bills.sarl        | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
-| whynot.sarl       | available | $8.98     | —             | 74             | 39     | 7      | namecheap |
+| jobs.sarl         | available | $8.98     | —             | 79             | 42     | 4      | namecheap |
 | links.sarl        | premium   | —         | —             | 70             | 38     | 5      | —         |
 | events.sarl       | available | $8.98     | —             | 68             | 37     | 6      | namecheap |
 | William.sarl      | available | $8.98     | —             | 74             | 31     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
