@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .sarl one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,854 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $9.82 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $9.63 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/sarl`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Books.sarl        | available | $8.98     | —             | 52             | 49     | 5      | namecheap |
-| agents.sarl       | premium   | $82.50    | —             | 56             | 50     | 6      | name.com  |
-| whynot.sarl       | available | $8.98     | —             | 74             | 44     | 7      | namecheap |
-| rewards.sarl      | premium   | $38.94    | $38.94        | 62             | 30     | 7      | namesilo  |
-| Ryan.sarl         | available | $8.98     | —             | 60             | 44     | 4      | namecheap |
-| bills.sarl        | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
-| jobs.sarl         | available | $8.98     | —             | 79             | 42     | 4      | namecheap |
-| links.sarl        | premium   | —         | —             | 70             | 38     | 5      | —         |
-| events.sarl       | available | $8.98     | —             | 68             | 37     | 6      | namecheap |
-| William.sarl      | available | $8.98     | —             | 74             | 31     | 7      | namecheap |
-| maps.sarl         | available | $8.98     | —             | 56             | 31     | 4      | namecheap |
-| inspiration.sarl  | available | $8.98     | —             | 88             | 30     | 11     | namecheap |
-| videos.sarl       | available | $8.98     | —             | 52             | 30     | 6      | namecheap |
-| quotes.sarl       | available | $8.98     | —             | 58             | 29     | 6      | namecheap |
-| blocks.sarl       | available | $8.98     | —             | 53             | 29     | 6      | namecheap |
-| commonground.sarl | available | $8.98     | —             | 74             | 28     | 13     | namecheap |
-| brands.sarl       | available | $8.98     | —             | 62             | 28     | 6      | namecheap |
-| gods.sarl         | available | $8.98     | —             | 72             | 27     | 4      | namecheap |
-| bees.sarl         | available | $8.98     | —             | 54             | 27     | 4      | namecheap |
-| trades.sarl       | available | $6.99     | $6.99         | 71             | 26     | 6      | namesilo  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| easy.sarl      | available | $8.98     | —             | 128            | 67     | 4      | namecheap |
+| bot.sarl       | premium   | $500      | —             | 98             | 58     | 3      | name.com  |
+| macedonia.sarl | available | $8.98     | —             | 70             | 52     | 9      | namecheap |
+| industry.sarl  | premium   | $38.94    | $38.94        | 68             | 58     | 8      | namesilo  |
+| startup.sarl   | available | $6.99     | $6.99         | 82             | 49     | 7      | namesilo  |
+| ink.sarl       | premium   | $38.94    | $38.94        | 94             | 51     | 3      | namesilo  |
+| stellar.sarl   | available | $8.98     | —             | 78             | 49     | 7      | namecheap |
+| create.sarl    | premium   | $38.94    | $38.94        | 107            | 50     | 6      | namesilo  |
+| platform.sarl  | available | $6.99     | $6.99         | 92             | 48     | 8      | namesilo  |
+| ben.sarl       | premium   | $38.94    | $38.94        | 84             | 49     | 3      | namesilo  |
+| happy.sarl     | available | $6.99     | $6.99         | 78             | 48     | 5      | namesilo  |
+| bio.sarl       | premium   | $78.54    | $78.54        | 78             | 44     | 3      | namesilo  |
+| marketing.sarl | available | $8.98     | —             | 74             | 48     | 9      | namecheap |
+| photo.sarl     | premium   | $38.94    | $38.94        | 92             | 42     | 5      | namesilo  |
+| sports.sarl    | available | $6.99     | $6.99         | 110            | 47     | 6      | namesilo  |
+| key.sarl       | premium   | $38.94    | $38.94        | 80             | 42     | 3      | namesilo  |
+| found.sarl     | available | $6.99     | $6.99         | 92             | 47     | 5      | namesilo  |
+| pocket.sarl    | premium   | $38.94    | $38.94        | 72             | 42     | 6      | namesilo  |
+| based.sarl     | available | $6.99     | $6.99         | 96             | 46     | 5      | namesilo  |
+| org.sarl       | premium   | $500      | —             | 54             | 42     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
