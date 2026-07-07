@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .sarl one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,854 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $9.63 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $9.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/sarl`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/sarl`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SARL one-word domain 
 
 ### Files
 
-- `sarl.csv` — public CSV extract (1,000 rows)
-- `sarl.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `sarl.csv`, public CSV extract (1,000 rows)
+- `sarl.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| easy.sarl      | available | $8.98     | —             | 128            | 67     | 4      | namecheap |
-| bot.sarl       | premium   | $500      | —             | 98             | 58     | 3      | name.com  |
-| macedonia.sarl | available | $8.98     | —             | 70             | 52     | 9      | namecheap |
-| industry.sarl  | premium   | $38.94    | $38.94        | 68             | 58     | 8      | namesilo  |
-| startup.sarl   | available | $6.99     | $6.99         | 82             | 49     | 7      | namesilo  |
-| ink.sarl       | premium   | $38.94    | $38.94        | 94             | 51     | 3      | namesilo  |
-| stellar.sarl   | available | $8.98     | —             | 78             | 49     | 7      | namecheap |
-| create.sarl    | premium   | $38.94    | $38.94        | 107            | 50     | 6      | namesilo  |
-| platform.sarl  | available | $6.99     | $6.99         | 92             | 48     | 8      | namesilo  |
-| ben.sarl       | premium   | $38.94    | $38.94        | 84             | 49     | 3      | namesilo  |
-| happy.sarl     | available | $6.99     | $6.99         | 78             | 48     | 5      | namesilo  |
-| bio.sarl       | premium   | $78.54    | $78.54        | 78             | 44     | 3      | namesilo  |
-| marketing.sarl | available | $8.98     | —             | 74             | 48     | 9      | namecheap |
-| photo.sarl     | premium   | $38.94    | $38.94        | 92             | 42     | 5      | namesilo  |
-| sports.sarl    | available | $6.99     | $6.99         | 110            | 47     | 6      | namesilo  |
-| key.sarl       | premium   | $38.94    | $38.94        | 80             | 42     | 3      | namesilo  |
-| found.sarl     | available | $6.99     | $6.99         | 92             | 47     | 5      | namesilo  |
-| pocket.sarl    | premium   | $38.94    | $38.94        | 72             | 42     | 6      | namesilo  |
-| based.sarl     | available | $6.99     | $6.99         | 96             | 46     | 5      | namesilo  |
-| org.sarl       | premium   | $500      | —             | 54             | 42     | 3      | name.com  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bce.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| apt.sarl | premium   | $41.25    | —             | high           | low    | 3      | name.com  |
+| dye.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| ben.sarl | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
+| far.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| bio.sarl | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
+| Fla.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| bot.sarl | premium   | $500      | —             | high           | medium | 3      | name.com  |
+| fog.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| cap.sarl | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| los.sarl | available | $8.98     | —             | high           | low    | 3      | namecheap |
+| cut.sarl | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com  |
+| oar.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| DJI.sarl | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| opt.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| fly.sarl | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| owe.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| gas.sarl | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap |
+| rid.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| ink.sarl | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by a single constraint: the domains use the .sarl extension and the name is one word. That creates a wide mix of dictionary terms, descriptive words, personal names, and higher-risk strings. Examples here include cord.sarl, principal.sarl, background.sarl, compelling.sarl, affable.sarl, ana.sarl, and interim.sarl. When comparing these domains, start with linguistic clarity and commercial fit. Short, clean words are usually easier to remember, while longer or abstract words need a stronger reason to exist. Price discipline matters too: the median ask is 9.82, so unusually expensive names should justify that premium with exceptional clarity or stronger relevance.
+This is a curated set of 12,854 one-word .sarl domain names, spanning everyday English words and short phrases such as inspiration.sarl, headout.sarl, and homes.sarl. Because .sarl is a newer top-level domain tied to the French limited-liability company structure, pricing stays low: the median ask across this selection is about $9.61. That makes it possible to secure a clean, one-word address without competing for a premium legacy TLD. Updated daily, this list covers a wide range of tones, from action verbs like makeit.sarl and steerclear.sarl to descriptive nouns like destination.sarl and finals.sarl, giving investors and founders a broad pool to evaluate for cost, memorability, and long-term renewal value.
 
-- Favor clear, memorable words over vague or awkward terms
-- Check trademark exposure on names like reebok.sarl
-- Use the 9.82 median ask as a price discipline anchor
-- Prefer words that read naturally with the .sarl ending
+- 12,854 one-word .sarl domain names in this selection
+- Median asking price around $9.61 — budget-friendly entry
+- Themes range from travel and lifestyle to business terms
+- Updated daily to reflect the current .sarl inventory
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
