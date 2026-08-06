@@ -1,10 +1,10 @@
-# Available .SARL One-Word Domains (12,854)
+# Available .SARL One-Word Domains (12,856)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C854%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C856%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sarl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,854 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,856 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $9.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,856 domains · **Median ask:** $9.26 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/sarl`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| bce.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| aft.sarl | available | $6.98     | $8.98         | low            | low    | 3      | namecheap |
 | apt.sarl | premium   | $41.25    | —             | high           | low    | 3      | name.com  |
-| dye.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| bce.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
 | ben.sarl | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
-| far.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| dye.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
 | bio.sarl | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
-| Fla.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| far.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
 | bot.sarl | premium   | $500      | —             | high           | medium | 3      | name.com  |
-| fog.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| Fla.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
 | cap.sarl | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
-| los.sarl | available | $8.98     | —             | high           | low    | 3      | namecheap |
+| fog.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| ccc.sarl | premium   | $38.94    | $38.94        | low            | medium | 3      | namesilo  |
+| ilx.sarl | available | $6.98     | $8.98         | low            | low    | 3      | namecheap |
 | cut.sarl | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com  |
-| oar.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| los.sarl | available | $8.98     | —             | high           | low    | 3      | namecheap |
 | DJI.sarl | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
-| opt.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| lxi.sarl | available | $6.98     | $8.98         | low            | low    | 3      | namecheap |
 | fly.sarl | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
-| owe.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| oar.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
 | gas.sarl | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap |
-| rid.sarl | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
-| ink.sarl | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,854 live domains                        |
+| 1,000-row public sample | 12,856 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
