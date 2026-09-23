@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sarl one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,394 domains · **Median ask:** $8.31 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/sarl`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | aft.sarl | available | $6.98     | $8.98         | low            | low    | 3      | namecheap |
-| apt.sarl | premium   | $41.25    | —             | high           | low    | 3      | name.com  |
+| apt.sarl | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo  |
 | bce.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
 | ben.sarl | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
 | dye.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
@@ -83,7 +83,7 @@ print(df.head())
 | lxi.sarl | available | $6.98     | $8.98         | low            | low    | 3      | namecheap |
 | fly.sarl | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
 | oar.sarl | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
-| gas.sarl | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap |
+| gas.sarl | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
