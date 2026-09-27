@@ -1,10 +1,10 @@
-# Available .SARL One-Word Domains (23,455)
+# Available .SARL One-Word Domains (23,852)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C455%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C852%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .sarl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,455 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,852 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,455 domains · **Median ask:** $8.87 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 23,852 domains · **Median ask:** $8.85 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/sarl`
@@ -68,21 +68,21 @@ print(df.head())
 | air.sarl  | premium   | $512      | $512          | high           | medium | 3      | namesilo  |
 | ape.sarl  | available | $6.98     | $8.98         | high           | low    | 3      | namecheap |
 | any.sarl  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
-| cdc.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| atc.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
 | apt.sarl  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
-| eve.sarl  | available | $6.98     | $8.98         | high           | medium | 3      | namecheap |
+| cdc.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
 | cfo.sarl  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
-| kfc.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| eve.sarl  | available | $6.98     | $8.98         | high           | medium | 3      | namecheap |
 | gal.sarl  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
-| ldl.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| kfc.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
 | its.sarl  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
-| mud.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| ldl.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
 | lol.sarl  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
-| per.sarl  | available | $8.98     | —             | high           | low    | 3      | namecheap |
+| mud.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
 | sam.sarl  | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
-| pip.sarl  | available | $6.98     | $8.98         | high           | low    | 3      | namecheap |
+| per.sarl  | available | $8.98     | —             | high           | low    | 3      | namecheap |
 | win.sarl  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
-| rob.sarl  | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| pip.sarl  | available | $6.98     | $8.98         | high           | low    | 3      | namecheap |
 | cars.sarl | premium   | $38.94    | $38.94        | high           | medium | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,455 live domains                        |
+| 1,000-row public sample | 23,852 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
