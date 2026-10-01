@@ -1,10 +1,10 @@
-# Available .SARL One-Word Domains (29,469)
+# Available .SARL One-Word Domains (31,803)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C469%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C803%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sarl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,469 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,803 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,469 domains · **Median ask:** $8.33 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 31,803 domains · **Median ask:** $8.14 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/sarl`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| watt.sarl         | available | $6.99     | $6.99         | high           | low    | 4      | namesilo   |
-| neuroscience.sarl | available | $5.38     | $5.38         | high           | low    | 12     | spaceship  |
-| shape.sarl        | available | $5.38     | $5.38         | high           | low    | 5      | spaceship  |
-| jump.sarl         | available | $6.99     | $6.99         | high           | low    | 4      | namesilo   |
-| feeling.sarl      | available | $5.38     | $5.38         | high           | low    | 7      | spaceship  |
-| technology.sarl   | available | $5.57     | $5.57         | high           | low    | 10     | dynadot    |
-| step.sarl         | available | $6.99     | $6.99         | high           | low    | 4      | namesilo   |
-| air.sarl          | premium   | $512      | $512          | high           | medium | 3      | namesilo   |
-| perfect.sarl      | available | $6.99     | $6.99         | high           | medium | 7      | namesilo   |
-| figure.sarl       | available | $6.99     | $6.99         | high           | low    | 6      | namesilo   |
-| primitive.sarl    | available | $6.99     | $6.99         | high           | low    | 9      | namesilo   |
-| courtyard.sarl    | available | $5.38     | $5.38         | high           | low    | 9      | spaceship  |
-| velvet.sarl       | available | $6.99     | $6.99         | high           | low    | 6      | namesilo   |
-| pair.sarl         | available | $5.38     | $5.38         | high           | low    | 4      | spaceship  |
-| much.sarl         | available | $6.99     | $6.99         | high           | low    | 4      | namesilo   |
-| cars.sarl         | premium   | $38.94    | $38.94        | high           | medium | 4      | namesilo   |
-| absolutely.sarl   | available | $5.20     | $5.20         | high           | low    | 10     | cloudflare |
-| tender.sarl       | available | $6.98     | $8.98         | high           | low    | 6      | namecheap  |
-| chimney.sarl      | available | $5.38     | $5.38         | high           | low    | 7      | spaceship  |
-| industrial.sarl   | available | $6.99     | $6.99         | high           | low    | 10     | namesilo   |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| aba.sarl    | available | $6.99     | $6.99         | high           | low    | 3      | namesilo   |
+| sniper.sarl | resell    | —         | —             | medium         | low    | 6      | —          |
+| air.sarl    | premium   | $512      | $512          | high           | medium | 3      | namesilo   |
+| ape.sarl    | available | $6.98     | $8.98         | high           | low    | 3      | namecheap  |
+| cfo.sarl    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo   |
+| atc.sarl    | available | $6.99     | $6.99         | high           | low    | 3      | namesilo   |
+| dom.sarl    | premium   | $18.30    | $36.55        | high           | medium | 3      | porkbun    |
+| auf.sarl    | available | $5.20     | $5.20         | high           | low    | 3      | cloudflare |
+| gal.sarl    | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship  |
+| bea.sarl    | available | $6.99     | $6.99         | high           | low    | 3      | namesilo   |
+| hoa.sarl    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo   |
+| caa.sarl    | available | $5.38     | $5.38         | high           | low    | 3      | spaceship  |
+| its.sarl    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo   |
+| cdc.sarl    | available | $6.99     | $6.99         | high           | low    | 3      | namesilo   |
+| lds.sarl    | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship  |
+| dac.sarl    | available | $6.99     | $6.99         | high           | low    | 3      | namesilo   |
+| nsw.sarl    | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship  |
+| drs.sarl    | available | $5.57     | $5.57         | medium         | low    | 3      | dynadot    |
+| saf.sarl    | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship  |
+| dug.sarl    | available | $5.20     | $5.20         | high           | low    | 3      | cloudflare |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,469 live domains                        |
+| 1,000-row public sample | 31,803 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SARL One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
